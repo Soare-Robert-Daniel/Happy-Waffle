@@ -1,2 +1,2 @@
-# Happy-Waffle
+# Happy: Waffle
 Projects made with Java.
