@@ -1,4 +1,3 @@
-package com.Robert;
 import java.lang.Math;
 /**
  * <h1>Rectangle Implementation</h1>
